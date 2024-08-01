@@ -4,13 +4,14 @@
 }
 
 body {
-    background-color: antiquewhite;
+    background-color: #03346E;
 }
 
 .converter {
     display: grid;
     justify-content: space-evenly;
     padding: 4rem;
+    color: white;
 }
 
 .converter h2 {
