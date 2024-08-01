@@ -22,7 +22,7 @@ body {
 }
 
 button {
-    background-color: cadetblue;
+    background-color: #021526;
     border: hidden;
     border-radius: 15px;
     font-size: 20px;
@@ -32,9 +32,10 @@ button {
 }
 
 button:hover {
-    background-color: cornflowerblue;
+    background-color: #E2E2B6;
     font-size: 25px;
     font-weight: 600;
+    color: black;
 }
 
 label {
